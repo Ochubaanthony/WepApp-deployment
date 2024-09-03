@@ -1,0 +1,7 @@
+/Users/anthonyochuba/EbereApp/WebAppSlot/bin/Release/net8.0/publish/WebAppSlot
+/Users/anthonyochuba/EbereApp/WebAppSlot/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/anthonyochuba/EbereApp/WebAppSlot/bin/Release/net8.0/publish/appsettings.json
+/Users/anthonyochuba/EbereApp/WebAppSlot/bin/Release/net8.0/publish/WebAppSlot.dll
+/Users/anthonyochuba/EbereApp/WebAppSlot/bin/Release/net8.0/publish/WebAppSlot.deps.json
+/Users/anthonyochuba/EbereApp/WebAppSlot/bin/Release/net8.0/publish/WebAppSlot.runtimeconfig.json
+/Users/anthonyochuba/EbereApp/WebAppSlot/bin/Release/net8.0/publish/WebAppSlot.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WebAppSlot/1.0.0": {
+        "runtime": {
+          "WebAppSlot.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebAppSlot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
